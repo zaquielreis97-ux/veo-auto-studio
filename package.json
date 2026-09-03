@@ -29,13 +29,13 @@
       "output": "dist-electron"
     },
     "publish": [
-      {
-        "provider": "github",
-        "owner": "zaquielmcc73-sketch",
-        "repo": "zaquielreis",
-        "releaseType": "release"
-      }
-    ],
+  {
+    "provider": "github",
+    "owner": "zaquielreis97-ux",
+    "repo": "veo-auto-studio",
+    "releaseType": "release"
+  }
+]
     "files": [
       "dist/**/*",
       "electron/**/*",
